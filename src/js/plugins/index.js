@@ -1,2 +1,1 @@
-
-    import './materialize'
+import './materialize'
